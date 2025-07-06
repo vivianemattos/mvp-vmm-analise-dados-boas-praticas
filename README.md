@@ -62,7 +62,7 @@ Ele contém informações como:
 
 ├── disney_plus_titles_W43.csv # Dataset original
 
-├── MVP_Análise_de_Dados_e_Boas_Práticas_(40530010055_20250_01)_Viviane_M_Matos.ipynb # Notebook com EDA e pré-processamento
+├── MVP_Analise_Dados_Boas_Praticas_VivianeMMatos.ipynb # Notebook com EDA e pré-processamento
 
 ├── README.md # Arquivo descritivo do projeto
 
